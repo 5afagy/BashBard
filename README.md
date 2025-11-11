@@ -83,7 +83,7 @@ Saved API key to /root/.local/share/bashbard/.env
 BashBard
 ```
 ## Usage Examples
-<img width="1106" height="401" alt="image" src="https://github.com/user-attachments/assets/7160800a-4b77-4513-a346-baaa81639e82" />
+<img width="1093" height="721" alt="image" src="https://github.com/user-attachments/assets/6123b1eb-0cf3-4308-92ca-e6735bd578d8" />
 
 
 BashBard understands your intent, it’s not just syntax-aware, it’s *context-aware.*
