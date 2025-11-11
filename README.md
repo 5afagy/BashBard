@@ -168,7 +168,7 @@ BashBard is a community project, contributions are welcome. Ways to contribute:
 
 ## 👨‍💻 Authors & License
 
-**Authors:** Khafagy & Naggar
+**Authors:** Khafagy & Elnaggar
 
 **License:** [Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 
