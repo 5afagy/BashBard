@@ -167,6 +167,12 @@ BashBard is a community project, contributions are welcome. Ways to contribute:
 
 **Contribution guide:** Fork → branch → PR → review. Keep changes focused and well-documented.
 
+## 🌟 Contributors
+
+<a href="https://github.com/5afagy/BashBard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=5afagy/BashBard" />
+</a>
+
 ## 👨‍💻 Authors & License
 
 **Authors:** Khafagy & Elnaggar
