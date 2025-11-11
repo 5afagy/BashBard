@@ -126,7 +126,7 @@ if _HAS_RICH:
         "[white]Transforms natural language and errors into safe, auditable shell commands[/white]\n"
         "[white]Understands intent • Repairs commands • Enforces safety by design[/white]\n\n"
         "[green]Organization:[/] Cyber Force LLC\n"
-        "[green]Authors:[/] Khafagy & Nagaar\n"
+        "[green]Authors:[/] Khafagy & Elnagaar\n"
         "[green]Core Strengths:[/] Intelligence • Safety • Explainability • Automation\n"
         "[green]Mission:[/] Empower professionals to work smarter and safer through AI-driven command insight\n"
         "[green]License:[/] Apache-2.0 license"
