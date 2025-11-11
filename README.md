@@ -177,27 +177,28 @@ BashBard is a community project, contributions are welcome. Ways to contribute:
 
 ## 👨‍💻 Authors & License
 
-**Authors:** Khafagy & Elnaggar
-
+**Authors:** [Khafagy](https://github.com/5afagy) & [Elnaggar](https://github.com/hungryDev399)  
+**Affiliated with:** [Cyber Force LLC](https://www.cyber-force.org/)  
 **License:** [Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 
-> Built with ❤️ open to contributors and collaborators from the security, devops, and AI communities.
+> Built with ❤️ in **Egypt** — open to collaborators worldwide.
 
-## 🏁 Get Involved
-
-Want to build a plugin, propose a pentest helper, or sponsor a feature? Open an issue or start a discussion at the project repo:
-
-`https://github.com/5afagy/BashBard`
-
-Together we’ll make BashBard an essential, trustworthy companion for anyone working at the shell.
+---
 
 <div align="center">
 
+## **BashBard: Intelligence Meets the Command Line.**
 
+[View on GitHub](https://github.com/5afagy/BashBard) • [Wiki](https://github.com/5afagy/BashBard/wiki) • [Discussions](https://github.com/5afagy/BashBard/discussions)
 
-<!--```bash
-curl -sSL https://github.com/5afagy/BashBard/raw/refs/heads/main/install.sh | bash && BashBard
+**Star. Fork. Build. Secure.**
+
+```bash
+curl -sSL https://github.com/5afagy/BashBard/raw/main/install.sh -o install.sh && bash install.sh && BashBard
 ```
 
+<p align="center">
+  <sub>Updated: <b>November 11, 2025 04:15 PM EET</b> • Cairo, Egypt</sub>
+</p>
+
 </div>
--->
