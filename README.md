@@ -3,6 +3,7 @@
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![Downloads](https://img.shields.io/github/downloads/5afagy/BashBard/total.svg?label=downloads)](https://github.com/5afagy/BashBard/releases)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=5afagy.BashBard&left_color=grey&right_color=brightgreen)](https://github.com/5afagy/BashBard)
+[![Wiki](https://img.shields.io/badge/Wiki-BashBard-blue)](https://github.com/5afagy/BashBard/wiki)
 
 <div align="center">
 
