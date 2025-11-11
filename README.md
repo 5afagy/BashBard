@@ -1,10 +1,10 @@
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![LLM: Google Gemini](https://img.shields.io/badge/LLM-Google_Gemini_1.5_Flash-brightgreen.svg?logo=google)](https://ai.google.dev)
+[![LLM: Google Gemini](https://img.shields.io/badge/LLM-Google_Gemini-brightgreen.svg?logo=google)](https://ai.google.dev)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg?logo=python&logoColor=white)](https://python.org)
-<!--[![Downloads](https://img.shields.io/github/downloads/5afagy/BashBard/total.svg?label=downloads)](https://github.com/5afagy/BashBard/releases)-->
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=5afagy.BashBard&left_color=grey&right_color=brightgreen)](https://github.com/5afagy/BashBard)
 [![Wiki](https://img.shields.io/badge/Wiki-BashBard-blue)](https://github.com/5afagy/BashBard/wiki)
 [![Languages](https://img.shields.io/badge/Input-Multilingual_(Arabic_+_More)-purple.svg)](#-multilingual-input-support)
+<!--[![Downloads](https://img.shields.io/github/downloads/5afagy/BashBard/total.svg?label=downloads)](https://github.com/5afagy/BashBard/releases)-->
 
 
 <div align="center">
