@@ -18,7 +18,7 @@
 
 ### ⚡Overview
 
-**BashBard** is a production-grade, AI-augmented terminal assistant that embeds **Google Gemini** intelligence directly into your Linux shell via a true PTY environment.
+**BashBard** is an AI-augmented terminal assistant that embeds **Google Gemini** intelligence directly into your Linux shell via a true PTY environment.
 
 It transforms ambiguous intent into **optimized, vetted bash commands**, repairs failed executions in real time, and enforces **proactive safety**, all without leaving your terminal.
 
