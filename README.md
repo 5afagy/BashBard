@@ -1,9 +1,11 @@
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![LLM: Google Gemini](https://img.shields.io/badge/LLM-Google_Gemini_1.5_Flash-brightgreen.svg?logo=google)](https://ai.google.dev)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg?logo=python&logoColor=white)](https://python.org)
-[![Downloads](https://img.shields.io/github/downloads/5afagy/BashBard/total.svg?label=downloads)](https://github.com/5afagy/BashBard/releases)
+<!--[![Downloads](https://img.shields.io/github/downloads/5afagy/BashBard/total.svg?label=downloads)](https://github.com/5afagy/BashBard/releases)-->
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=5afagy.BashBard&left_color=grey&right_color=brightgreen)](https://github.com/5afagy/BashBard)
 [![Wiki](https://img.shields.io/badge/Wiki-BashBard-blue)](https://github.com/5afagy/BashBard/wiki)
+[![Languages](https://img.shields.io/badge/Input-Multilingual_(Arabic_+_More)-purple.svg)](#-multilingual-input-support)
+
 
 <div align="center">
 
@@ -13,7 +15,7 @@
 
 ### *AI-Powered Shell Intelligence & Safety Layer*
 
-> **Think in English. Execute in Bash. Never regret a command.**
+> **Think in any language. Execute in Bash. Never regret a command.**
 
 </div>
 
@@ -51,7 +53,12 @@ A single typo can wipe data. A forgotten flag can leak secrets. A copied one-lin
 
 > **“Your terminal, now with judgment.”**
 
-## ⚙️ Installation
+## Multilingual Input Support
+
+BashBard understands **natural language in any language** — including **Arabic**, **English**, **French**, **Spanish**, and more.
+
+
+## ⚙️ Quick Start (30 Seconds)
 
 BashBard ships with an automated installer that sets up everything for you.
 
@@ -60,7 +67,7 @@ curl -sSL https://github.com/5afagy/BashBard/raw/refs/heads/main/install.sh | ba
 ```
 
 > **One command. Zero hassle.**  
-> Installs, configures, and launches BashBard — even on fresh systems.
+> Installs, configures, and launches BashBard even on fresh systems.
 
 ### What the installer does:
 - Creates a **dedicated virtual environment**
@@ -78,11 +85,6 @@ Enter your Google Gemini API key: ??
 Saved API key to /root/.local/share/bashbard/.env
 ```
 
-### Start BashBard
-
-```bash
-BashBard
-```
 ## Usage Examples
 <img width="1093" height="721" alt="image" src="https://github.com/user-attachments/assets/6123b1eb-0cf3-4308-92ca-e6735bd578d8" />
 
@@ -155,7 +157,7 @@ BashBard is engineered with a modular architecture built on modern AI and system
 
 *All telemetry and cloud features are **opt-in only**.*
 
-## 🤝 How You Can Help (Open to Collaborators)
+## 🤝 How You Can Help (Open to Contributors)
 
 BashBard is a community project, contributions are welcome. Ways to contribute:
 
